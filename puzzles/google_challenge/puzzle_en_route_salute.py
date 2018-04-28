@@ -54,10 +54,12 @@ def find_gt_ndx(a, x):
 def answer(s):
     r_indices = []
     l_indices = []
-    
+
+    #where are the characters? Ignore hyphens.    
     r_indices = get_char_indices('>',s)
     l_indices = get_char_indices('<',s)
     if l_indices == [] or r_indices == []:
+        #no values, short circuit.
         return 0
     
     left_len = len(l_indices)
