@@ -33,16 +33,20 @@ It can be extended with plugins to support your needs.  Code is now the #1-ranke
 * Support for many languages, probably including whichever you use: C, C++, Go, Powershell, R, Ruby, VB, etc, and, of course, Python. Feature support varies across languages.
 * Note: defaults to opt in--collects usage data and sends it to Microsoft, (may be shared with law enforcement).  This telemetry reporting can be disabled. Useful for improving the user experience, but might not be your cup of tea.
 
-Basics:
+**Basics:**
 
-Navigation: The folder in which you begin vscode determines your workspace.  For security reasons, one cannot navigate to parent (including sibling-level) folders. The starting folder workspace determines your effective root.
+**Navigation:** 
 
-Command Pallet (where the magic happens): Cmd-shift-P  (ctrl-shift-p or F1 on Windows)
+The folder in which you begin vscode determines your workspace.  For security reasons, one cannot navigate to parent (including sibling-level) folders. The starting folder workspace determines your effective root.
 
-Extensions:
+**Command Pallet** (where the magic happens): Cmd-shift-P  (ctrl-shift-p or F1 on Windows)
+
+**Extensions:**
+
 Python
 
-Settings:
+**Settings:**
+
 Scope:
 User —> All sessions unless overridden by…
 Workspace: Project-specific

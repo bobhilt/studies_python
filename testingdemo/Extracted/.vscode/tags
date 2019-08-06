@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+PowerDigitSum	../tests/test_power_digit_sum.py	/^class PowerDigitSum(unittest.TestCase):$/;"	kind:class	line:4
+__init__.py	../tests/__init__.py	1;"	kind:file	line:1
+os	../tests/__init__.py	/^import os$/;"	kind:namespace	line:1
+pds	../tests/test_power_digit_sum.py	/^import power_digit_sum2 as pds$/;"	kind:namespace	line:2
+power_digit_sum	../power_digit_sum2.py	/^def power_digit_sum(power):$/;"	kind:function	line:14
+power_digit_sum2.py	../power_digit_sum2.py	1;"	kind:file	line:1
+sys	../tests/__init__.py	/^import sys$/;"	kind:namespace	line:2
+test_digits_of_2_to_15th_is_26	../tests/test_power_digit_sum.py	/^    def test_digits_of_2_to_15th_is_26(self):$/;"	kind:member	line:6
+test_negative_power_raises_value_error	../tests/test_power_digit_sum.py	/^    def test_negative_power_raises_value_error(self):$/;"	kind:member	line:12
+test_power_digit_sum.py	../tests/test_power_digit_sum.py	1;"	kind:file	line:1
+test_sum_of_digits_of_2_to_10th_is_7	../tests/test_power_digit_sum.py	/^    def test_sum_of_digits_of_2_to_10th_is_7(self):$/;"	kind:member	line:9
+unittest	../tests/test_power_digit_sum.py	/^import unittest$/;"	kind:namespace	line:1
