@@ -1,5 +1,5 @@
 # This project is a simple study demonstrating building test structure options. 
-(https://github.com/bobhilt/studies/python/TestingDemo)
+<https://github.com/bobhilt/studies_python/tree/master/testingdemo>
 ## It's simple.  I don't really need tests. ("Without")
 
 
